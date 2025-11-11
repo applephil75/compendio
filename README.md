@@ -13,6 +13,13 @@ I miei recapiti *classici* sono legati al mio lavoro come consulente globale in 
 * [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it)
 * [Exchange CryptoSmart](http://www.cryptosmart.it)
 
+## Servizi
+
+* Operazioni e investimenti in e con asset digitali (Bitcoin in primis) tra Italia e Svizzera
+* Formazione e training in fin-tech e blockchain applicata
+* Relocation aziendale in Ticino
+* Investimenti in mining Bitcoin certificati
+
 Per contattarmi:
 
 * filippo@completservice.eu
