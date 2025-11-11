@@ -13,7 +13,7 @@ I miei recapiti *classici* sono legati al mio lavoro come consulente globale in 
 * [Bitcoin Veneto Team](http://www.bitcoinvenetocenter.it)
 * [Exchange CryptoSmart](http://www.cryptosmart.it)
 
-Per contattarmi direttamente:
+### Per contattarmi direttamente:
 
 * filippo@completservice.eu
 * filippo@bitcoinvenetocenter.it
